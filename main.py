@@ -4,3 +4,9 @@ import matplotlib as plt
 # Importing CAFFE
 import caffe
 
+
+def main(){
+  
+  
+  
+  }
